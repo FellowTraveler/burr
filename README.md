@@ -57,7 +57,7 @@ Burr includes:
 Burr can be used to power a variety of applications, including:
 
 1. [A simple gpt-like chatbot](examples/multi-modal-chatbot)
-2. [A stateful RAG-based chatbot](examples/conversational-rag)
+2. [A stateful RAG-based chatbot](examples/conversational-rag/simple_example)
 3. [A machine learning pipeline](examples/ml-training)
 4. [A simulation](examples/simulation)
 
